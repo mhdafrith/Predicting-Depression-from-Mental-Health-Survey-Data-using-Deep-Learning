@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohamedafrith/Desktop/mini_project_6/mlruns/809472147024850140/90f38adeca9b4673bd82f2fce0733e5f/artifacts
+end_time: 1740904946953
+entry_point_name: ''
+experiment_id: '809472147024850140'
+lifecycle_stage: active
+run_id: 90f38adeca9b4673bd82f2fce0733e5f
+run_name: luminous-yak-316
+run_uuid: 90f38adeca9b4673bd82f2fce0733e5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740904943355
+status: 3
+tags: []
+user_id: mohamedafrith

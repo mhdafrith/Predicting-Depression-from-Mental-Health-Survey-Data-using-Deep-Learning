@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohamedafrith/Desktop/mini_project_6/mlruns/809472147024850140/df02250af4a441049c32773e596aa237/artifacts
+end_time: 1740904920220
+entry_point_name: ''
+experiment_id: '809472147024850140'
+lifecycle_stage: active
+run_id: df02250af4a441049c32773e596aa237
+run_name: fun-pig-673
+run_uuid: df02250af4a441049c32773e596aa237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740904920214
+status: 4
+tags: []
+user_id: mohamedafrith

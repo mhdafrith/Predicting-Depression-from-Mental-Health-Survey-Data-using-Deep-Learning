@@ -1,0 +1,21 @@
+artifact_path: depression_model
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.11.5
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.6.0
+mlflow_version: 2.20.1
+model_size_bytes: 6108
+model_uuid: 84ecca87ec864b0e8d96f5b0bc1106f9
+run_id: 90f38adeca9b4673bd82f2fce0733e5f
+utc_time_created: '2025-03-02 08:42:23.376265'
