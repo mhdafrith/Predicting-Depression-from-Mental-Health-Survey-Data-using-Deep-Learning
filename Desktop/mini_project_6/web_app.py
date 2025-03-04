@@ -26,7 +26,7 @@ model=NeuralNetwork()
 
 def load_model():
     model = NeuralNetwork()
-    state_dict = torch.load("model.pth", map_location=torch.device('cpu'))
+    state_dict = torch.load("Desktop/mini_project_6/model.pth", map_location=torch.device('cpu'))
     model.load_state_dict(state_dict)  
     model.eval()
     return model
