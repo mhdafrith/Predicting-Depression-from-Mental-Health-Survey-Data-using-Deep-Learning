@@ -71,7 +71,7 @@ working_status_map = {"Student": 0, "Working Professional": 1}
 import pickle
 
 # Load the saved scaler
-with open("/Users/mohamedafrith/Desktop/mini_project_6/scaler.pkl", "rb") as f:
+with open("Desktop/mini_project_6/scaler.pkl", "rb") as f:
     scaler = pickle.load(f)
 
 # Create input array
