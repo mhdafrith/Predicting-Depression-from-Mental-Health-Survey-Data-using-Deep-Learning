@@ -70,6 +70,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
-[Mohamed Afrith S]  
+Mohamed Afrith S 
 GitHub:[https://github.com/mhdafrith]
 
